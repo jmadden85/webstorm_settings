@@ -1,8 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docker-compose.yml" type="PLAIN_TEXT" />
       <mapping pattern="nginx-config" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
